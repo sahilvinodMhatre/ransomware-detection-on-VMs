@@ -1,0 +1,12 @@
+{
+    "windows": [
+        "C:\\Program Files\\Common Files",
+        "C:\\Data"
+    ],
+    "linux": [
+        "/opt/",
+        "/var/www/html",
+        "/tmp/",
+        "/mnt/"
+    ]
+} 
