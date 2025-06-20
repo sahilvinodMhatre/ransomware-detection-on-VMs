@@ -9,7 +9,7 @@ GCP Windows VM Startup Script for Ransomware Detector
 $BucketName = "your-bucket-name"
 $ZipFileName = "ransomware-detector.zip"
 $InstallDir = "C:\RansomwareDetector"
-$LogDir = "C:\ProgramData\Ransomeware-Detector"
+$LogDir = "C:\ProgramData\Ransomware-Detector"
 $LogFile = "$LogDir\enc-files.log"
 $ScriptPath = "$InstallDir\ransomware_detector.py"
 
